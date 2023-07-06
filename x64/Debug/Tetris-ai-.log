@@ -1,0 +1,33 @@
+﻿  Game.cpp
+D:\source\repos\Tetris-ai- - 2.0\Tetris.h(37,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYROLE”的左侧
+D:\source\repos\Tetris-ai- - 2.0\Tetris.h(49,2): warning C4091: “typedef ”: 没有声明变量时忽略“gridShape”的左侧
+D:\source\repos\Tetris-ai- - 2.0\Game.h(35,2): warning C4091: “typedef ”: 没有声明变量时忽略“ButtonState”的左侧
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(26,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(73,11): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(75,11): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(78,96): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(78,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(217,43): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(245,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(235,16): warning C4101: “initialY”: 未引用的局部变量
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(235,6): warning C4101: “initialX”: 未引用的局部变量
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(256,42): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(276,42): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\source\repos\Tetris-ai- - 2.0\Game.cpp(277,43): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  Tetris-ai-.vcxproj -> D:\source\repos\Tetris-ai- - 2.0\x64\Debug\Tetris-ai-.exe

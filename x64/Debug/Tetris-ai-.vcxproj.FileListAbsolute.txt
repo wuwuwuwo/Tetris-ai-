@@ -1,0 +1,2 @@
+D:\source\repos\Tetris-ai-\x64\Debug\Tetris-ai-.exe
+D:\source\repos\Tetris-ai- - 2.0\x64\Debug\Tetris-ai-.exe
